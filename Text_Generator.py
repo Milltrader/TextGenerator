@@ -47,8 +47,6 @@ def functional():
     else:
         sentence.append(word)
 
-
-
 for sent in range(10):
 
     while x == 0:
